@@ -1,0 +1,18 @@
+src/
+    components/
+          CourseListing.js: Displays a list of courses.
+          CourseDetails.js: Displays detailed information about a selected course.
+          StudentDashboard.js: Displays the list of enrolled courses.
+          studentdashboard.css
+          Header.js: Contains the navigation links.
+          HomePage.js: The main course listing page.
+          CoursePage.js: The course details page.
+          Registration.js
+          login.js
+          ActionAreacard.js
+          
+    data/
+         Samplecourses.js: The student dashboard page.
+App.js: Manages routes and renders components based on URL.
+reportwevitals.js
+index.js
